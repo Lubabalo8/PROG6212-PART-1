@@ -2,3 +2,6 @@
 The system is an event management API designed to manage running, walking, and cycling events. It allows Participants to register, log in, manage their profiles, view available events, enrol in events by selecting categories, and view their results. Organisers can create, update, and delete events, manage event categories, view participant enrolments, and record finishing times and positions. The system uses role-based access control to ensure that Participants and Organisers can only perform actions appropriate to their roles.
 
 The two roles in the database. Organisers can create, edit, delete events. Mange event categories, capture participants results and view all events enrolment. Participants can create an account, browse events, enter events by selecting categories, view their own enrolments and track personal results. 
+
+
+https://youtu.be/TXs9TpEhDcw
